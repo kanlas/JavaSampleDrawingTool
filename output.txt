@@ -1,0 +1,146 @@
+Needs canvas.
+--------------
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+--------------
+--------------
+|  XXXXXXXX  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  XXXXXXXX  |
+--------------
+Invalid input.
+--------------
+|  XXXXXXXX  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|XXXXXXXXXX  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  XXXXXXXX  |
+--------------
+--------------
+|ooXXXXXXXX  |
+|ooX      X  |
+|ooX      X  |
+|ooX      X  |
+|XXXXXXXXXX  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  XXXXXXXX  |
+--------------
+--------------
+|ooHHHHHHHH  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  HHHHHHHH  |
+--------------
+--------------
+|ooHXXXXXXH  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  HHHHHHHH  |
+--------------
+--------------
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  HHHHHHHH  |
+--------------
+--------------
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  HXXXXXXH  |
+--------------
+--------------
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H......H  |
+--------------
+--------------
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H X|
+|  H      H X|
+|  H      H X|
+|  H      H X|
+|  H......H X|
+--------------
+--------------
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H X|
+|HHHHHHHHHH  |
+|  H      H X|
+|  H      H X|
+|  H      H X|
+|  H      H X|
+|  H......H X|
+--------------
+--------------
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H X|
+|HHHHHHHHHH  |
+|  H      H i|
+|  H      H i|
+|  H      H i|
+|  H      H i|
+|  H......H i|
+--------------

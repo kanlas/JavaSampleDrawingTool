@@ -1,0 +1,159 @@
+Needs Canvas		L 1 2 3 4 
+
+--------------		C 12 10
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+--------------
+
+--------------		R 3 1 10 10
+|  XXXXXXXX  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  XXXXXXXX  |
+--------------
+
+Invalid input	 	RR 3 1 10 10
+
+--------------		L 1 5 9 5
+|  XXXXXXXX  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|XXXXXXXXXX  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  XXXXXXXX  |
+--------------
+
+--------------		B 1 1 o
+|ooXXXXXXXX  |
+|ooX      X  |
+|ooX      X  |
+|ooX      X  |
+|XXXXXXXXXX  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  X      X  |
+|  XXXXXXXX  |
+--------------
+
+--------------		B 3 1 H
+|ooHHHHHHHH  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  HHHHHHHH  |
+--------------
+
+--------------		L 4 1 9 1
+|ooHXXXXXXH  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  HHHHHHHH  |
+--------------
+
+--------------		B 4 1 .
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  HHHHHHHH  |
+--------------
+
+--------------		L 4 10 9 10
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  HXXXXXXH  |
+--------------
+
+--------------		B 4 10 .
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H      H  |
+|  H......H  |
+--------------
+
+--------------		L 12 6 12 10
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H  |
+|HHHHHHHHHH  |
+|  H      H X|
+|  H      H X|
+|  H      H X|
+|  H      H X|
+|  H......H X|
+--------------
+
+--------------		L 12 4 12 4
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H X|
+|HHHHHHHHHH  |
+|  H      H X|
+|  H      H X|
+|  H      H X|
+|  H      H X|
+|  H......H X|
+--------------
+
+--------------		B 12 6 i
+|ooH......H  |
+|ooH      H  |
+|ooH      H  |
+|ooH      H X|
+|HHHHHHHHHH  |
+|  H      H i|
+|  H      H i|
+|  H      H i|
+|  H      H i|
+|  H......H i|
+--------------
